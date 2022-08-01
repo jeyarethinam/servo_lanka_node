@@ -1,0 +1,28 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "async": "^2.6.0",
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.1",
+    "express": "4.15.2",
+    "express-useragent": "^1.0.12",
+    "express-validator": "3.2.0",
+    "jsonwebtoken": "^8.2.0",
+    "mysql": "2.18.1",
+    "nodemailer": "^4.6.3",
+    "nodemon": "^2.0.6",
+    "password-hash": "^1.2.2",
+    "pg": "^7.3.0",
+    "request": "^2.79.0",
+    "sendgrid": "^5.2.3",
+    "socket.io": "^2.0.3"
+  },
+  "author": "ceybit",
+  "license": "ISC"
+}
